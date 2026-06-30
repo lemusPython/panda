@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /tmp/
+Sitemap: https://vercel.com/lemus/panda/sitemap.xml
