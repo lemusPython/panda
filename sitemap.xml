@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/lemusPython/lemus</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/issues</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/pulls</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/actions</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/security</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/404.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/Proyecto-reforestacion.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/bootstrap.min.css</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/index.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/politica-privacidad.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/proyecto-educacion.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/proyecto-investigacion.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/proyecto-rescate.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/script.js</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/style.css</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/blob/main/terminos-condiciones.html</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/activity</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/releases</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/search?q=repo%3AlemusPython%2Flemus++language%3AHTML</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/search?q=repo%3AlemusPython%2Flemus++language%3ACSS</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/search?q=repo%3AlemusPython%2Flemus++language%3AJavaScript</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/issues/views</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/milestones</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/labels</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/lemusPython/lemus/milestones?state=closed</loc>
+  <lastmod>2026-06-30T09:24:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+</urlset>
