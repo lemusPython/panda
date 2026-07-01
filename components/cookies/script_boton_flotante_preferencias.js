@@ -1,7 +1,14 @@
 // Añadir un botón flotante para cambiar preferencias después de aceptar
 const floatingBtn = document.createElement('button');
-floatingBtn.innerHTML = '<img src="https://media.istockphoto.com/id/466087002/es/foto/panda-rojo-del-%C3%A1rbol.jpg?b=1&s=612x612&w=0&k=20&c=eK8G9zPMv_E6_SJbS5zhhp5dsPL6KTj6guCo-1EN9g4=">';
-floatingBtn.style.cssText = `
+floatingBtn.innerHTML = `
+  <img src="https://media.istockphoto.com/id/466087002/es/foto/panda-rojo-del-%C3%A1rbol.jpg"
+       style="
+         width: 100%;
+         height: 100%;
+         border-radius: 50%;
+         object-fit: cover;
+       ">
+`;
     position: fixed;
     bottom: 20px;
     left: 20px;
@@ -17,6 +24,7 @@ floatingBtn.style.cssText = `
     font-size: 24px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     transition: transform 0.2s ease;
+    
 `;
 
 floatingBtn.onmouseenter = () => {
